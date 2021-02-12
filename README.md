@@ -1,3 +1,6 @@
-# Credit Card Fraud Detection
+# Handling Imbalanced Data
 
-This repository will hold my credit card fraud detection project.
+The purpose of this endeavor is practice 3 different methods of handling imbalanced data:
+- Smote Oversampling
+- Random Oversampling
+- Random Undersampling
